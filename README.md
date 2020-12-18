@@ -12,7 +12,7 @@ The features include full CRUD capabilities for the Signup form which will be se
 
 # Team Expectations
 
-[Team Expectations](https://docs.google.com/document/d/1uBlmLwluYCKS6EOEjmlVrDuaU-q9CRdK7HR8NNvWaO0/edit)
+[Team Expectations](https://docs.google.com/document/d/1EN9KC4IYI6Q3u1mnXHW-r_XyYMNbEh3gODD6IgHRGz4/edit?usp=sharing)
 
 # Schema
 
