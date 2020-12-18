@@ -10,7 +10,8 @@ Checkout form <br/>
 
 The features include full CRUD capabilities for the Signup form which will be sent to our backend server and will become accessible in the "Customer info page" that we will be adding.
 
-#Team Expectations
+# Team Expectations
+
 [Team Expectations] https://docs.google.com/document/d/1EN9KC4IYI6Q3u1mnXHW-r_XyYMNbEh3gODD6IgHRGz4/edit?usp=sharing
 
 # Schema
